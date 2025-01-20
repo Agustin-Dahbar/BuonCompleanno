@@ -1,0 +1,31 @@
+﻿body {
+    margin: 0px;
+    box-sizing: border-box;
+    background-image: url(Imagenes/FondoCumple.jpg);
+}
+
+#titulo {
+    font-size: 200%;
+    display: flex;
+    position: absolute;
+    left: 55%;
+    top: 23.5%;
+    font-family: 'Comic Sans MS';
+    color: blue;
+}
+
+#lblCompleanno {
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+    text-align: center;
+    margin-top: 30%;
+    margin-left: 12%;
+}
+
+#torta {
+    height: 30vh;
+    position: absolute;
+    left: 46%;
+    top: 29%;
+}
