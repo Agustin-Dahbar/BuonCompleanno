@@ -70,6 +70,7 @@
     <Content Include="FelizCumpleaños.aspx" />
     <Content Include="Imagenes\FondoCumple.jpg" />
     <Content Include="Imagenes\TortaCumpleaños.png" />
+    <Content Include="index.html" />
     <Content Include="Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>

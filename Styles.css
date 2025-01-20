@@ -29,3 +29,30 @@
     left: 46%;
     top: 29%;
 }
+
+@media (max-width: 990px)
+{
+    #titulo 
+    {
+        color: blue;
+        font-size:600%;
+        margin-top:-20%;
+        margin-left:-25%;
+    }
+
+    #torta
+    {
+        height:25vh;
+        position:absolute;
+        left:25%;
+    }
+
+    #lblCompleanno {
+        color: red;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 700%;
+        text-align: center;
+        margin-top: 180%;
+        margin-left: 12%;
+    }
+}
